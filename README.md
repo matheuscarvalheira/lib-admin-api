@@ -28,7 +28,7 @@ Desenvolvimento do projeto utilizando a versão mais recente do TypeScript para 
 # Clone no repositório com o comando:
 $ git clone https://github.com/matheuscarvalheira/lib-admin-api.git
 
-#Entre no diretório:
+# Entre no diretório:
 $ cd lib-server
 ```
 
