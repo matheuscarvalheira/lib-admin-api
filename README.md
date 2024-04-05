@@ -1,6 +1,6 @@
-#   Sistema de gerenciamento de biblioteca
+# Sistema de gerenciamento de biblioteca
 
-## Objetivo
+## Objetivo 🔎
 
 Desenvolver um sistema de gerenciamento de biblioteca utilizando a última versão do TypeScript. O foco será criar um CRUD (Create, Read, Update, Delete), que se conecta a um banco de dados, podendo ser NoSQL ou SQL.
 
@@ -10,19 +10,19 @@ Desenvolver um sistema de gerenciamento de biblioteca utilizando a última vers�
 
 - Estrutura proposta para entidade Livro: cada livro pode possuir um título, autor(a), ISBN, ano de publicação e, caso queira se aventurar, pode adicionar uma Entidade Editora, assim um livro pode fazer parte de uma Editora e uma Editora pode ter uma lista de livros
 
-### Requisitos Técnicos
+### Requisitos Técnicos 🧬
 
 Desenvolvimento do projeto utilizando a versão mais recente do TypeScript para garantir que o seu código esteja atualizado. Integração do sistema a um banco de dados que pode ser um NoSQL ou SQL. Neste cenário, você pode utilizar o Docker ou um banco de dados grátis como o PostgreSQL na plataforma Supabase.
 
 
-## Tecnologias utilizadas 
+## Tecnologias utilizadas 💻🚀
 
 - Node.js
 - Express.js
 - MongoDB
 - Typescript
 
-## 🎥 Como rodar o projeto:
+### 🎥 Como rodar o projeto:
 
 ```bash
 # Clone no repositório com o comando:
