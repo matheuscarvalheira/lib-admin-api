@@ -10,7 +10,7 @@ interface Publisher extends Document {
 const publisherSchema = new Schema<Publisher>({
   name: String,
   location: String,
-  books: [{ type: Schema.Types.ObjectId, ref: "Book" }], //Define uma lista de referências aos livros associados à editora
+  books: [{ type: Schema.Types.ObjectId, ref: "Book" }], // Define uma lista de referências aos livros associados à editora
 });
 
 const PublisherModel = mongoose.model<Publisher>("Publisher", publisherSchema);
